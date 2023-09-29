@@ -1,0 +1,7 @@
+/.vscode
+/.cog
+/models/*
+cog_test.py
+asynctest.py
+/ingest_temp/*
+/__pycache__
