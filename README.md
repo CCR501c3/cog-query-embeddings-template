@@ -1,0 +1,1 @@
+# cog-query-embeddings-template
